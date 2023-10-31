@@ -13,6 +13,6 @@ This repository is a hub for the practical work I've undertaken during my deep l
 Feel free to explore the exercises, projects, and experiments. Each folder contains the problem statement, the approach taken, and the outcomes. You'll also find the corresponding Python code and any necessary datasets in their respective folders.
 
 ## Contact Me
-If you have any questions, suggestions, or just want to chat about deep learning and AI, feel free to reach out to me. You can find me on LinkedIn https://www.linkedin.com/in/habib-gemmechu/ or via email at habib.gemechu@aait.edu.et or habib.gemmech@gmail.com .
+If you have any questions, suggestions, or just want to chat about deep learning and AI, feel free to reach out to me. You can find me on LinkedIn https://www.linkedin.com/in/habib-gemmechu/.
 
 Happy coding and exploring the fascinating world of deep learning! 🚀
